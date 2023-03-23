@@ -1,6 +1,3 @@
-//Name:Muhammad Nasir Zafar
-//ID:20I-2256
-//Class:MS(AI)
 
 #include <iostream>
 #include <cstdlib>
